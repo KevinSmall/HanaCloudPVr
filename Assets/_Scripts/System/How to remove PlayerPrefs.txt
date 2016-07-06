@@ -1,0 +1,1 @@
+To remove playerprefs, search under regedit HKCU -> Default Company -> HanaCloudVr (delete folder)
